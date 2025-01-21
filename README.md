@@ -1,3 +1,5 @@
+Website link : 🔗 https://redux-toolkit-jobster.netlify.app/
+
 Job Searching Portal 💼
 A modern job-searching portal built with React, HTML and Tailwind CSS. The app uses React Router for navigation and integrates with a public API endpoint for job listings and details.
 
